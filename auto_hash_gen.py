@@ -35,6 +35,12 @@ print
 print hashlib.sha224(ip).hexdigest()
 print
 print "#"*12
+print   " Sha384 Hash "
+print "#"*12
+print
+print hashlib.sha384(ip).hexdigest()
+print
+print "#"*12
 print   " Sha256 Hash "
 print "#"*12
 print
