@@ -50,6 +50,8 @@ python auto_hash_gen.py
 </ul>
 
 
+comming soon
+
 ### Screenshots ###
 
 
