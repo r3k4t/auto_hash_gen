@@ -6,7 +6,8 @@
 
 ### Description ###
 
-echo _e "\033[1m\e[32m                  .-"      "-.
+ 
+                  .-"      "-.
                  /            \
                 |              |
                 |,  .-.  .-.  ,|
@@ -18,7 +19,7 @@ echo _e "\033[1m\e[32m                  .-"      "-.
                   \          /     '-==\}/
                    `--------`
  
-              Automatic Hash Generator
+             Automatic Hash Generator
 
 
 Advance hash generator.This program can help to get automatic generate hash.Enter your password and wait. It can generate 4 hash.There are md5,sha1,sha256 etc.      
