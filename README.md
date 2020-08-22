@@ -49,9 +49,6 @@ python auto_hash_gen.py
 <li>SHA 512</li>
 </ul>
 
-
-comming soon
-
 ### Screenshots ###
 
 
