@@ -27,7 +27,7 @@ Advance hash generator.This program can help to get automatic generate hash.Ente
 ### Installation ###
 
 <ul>
-<li>Python<li>
+<li>Python</li>
 <li>Figlet</li>
 </ul>
 
