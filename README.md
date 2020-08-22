@@ -50,6 +50,10 @@ python auto_hash_gen.py
 </ul>
 
 ### Screenshots ###
+![Screenshot at 2020-08-22 09-29-55](https://user-images.githubusercontent.com/69615463/90948336-31fc5a00-e45b-11ea-983d-a4fa21613728.png)
+
+Binary Matrix
+
 
 
 
