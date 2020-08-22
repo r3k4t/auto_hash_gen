@@ -45,6 +45,7 @@ python auto_hash_gen.py
 <ul>
 <li>MD5 Hash</li>
 <li>SHA 1 Hash</li>
+ <li> SHA 224 </li>
 <li>SHA 256 Hash </li>
 <li>SHA 512</li>
 </ul>
