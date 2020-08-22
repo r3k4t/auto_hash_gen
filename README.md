@@ -47,7 +47,7 @@ python auto_hash_gen.py
 <li>SHA 1 Hash</li>
  <li> SHA 224 </li>
 <li>SHA 256 Hash </li>
- <li>SHA 338 Hash </li>
+ <li>SHA 384 Hash </li>
 <li>SHA 512</li>
 </ul>
 
