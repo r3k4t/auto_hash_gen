@@ -54,6 +54,7 @@ python auto_hash_gen.py
 
 Binary Matrix
 
+![Screenshot at 2020-08-22 09-30-23](https://user-images.githubusercontent.com/69615463/90948372-7d166d00-e45b-11ea-8547-c572ba2ab6f4.png)
 
 
 
